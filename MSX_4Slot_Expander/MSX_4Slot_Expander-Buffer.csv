@@ -1,0 +1,11 @@
+Ref,Qnty,Value,Cmp name,,,Footprint,Description,Vendor,DNP
+"C1, C2, C3, C4, C5, C6",6,104,C,0.1,0.6,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,Unpolarized capacitor,,
+C22,1,100uF,C_Polarized,2.5,2.5,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,Polarized capacitor,,
+CN1,1,MSX_SLOT_CON-msxmakers,MSX_SLOT_CON-msxmakers_1,2.5,2.5,MSX:MSX_Slot,,,
+"D8, D9, D10",3,1N914,1N914,0.1,0.3,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,"100V 0.3A Small Signal Fast Switching Diode, DO-35",,
+J1,1,Conn_02x25_Odd_Even,Conn_02x25_Odd_Even,3,3,Connector_IDC:IDC-Header_2x25_P2.54mm_Horizontal,"Generic connector, double row, 02x25, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",,
+U1,1,74HC245,74HC245,0.85,0.85,Package_DIP:DIP-20_W7.62mm_Socket,"Octal BUS Transceivers, 3-State outputs",,
+"U2, U3, U4",3,74HCT541,74HCT541,0.19,0.57,Package_DIP:DIP-20_W7.62mm_Socket,8-bit Buffer/Line Driver 3-state outputs,,
+U5,1,74LS08,74LS08,0.8,0.8,Package_DIP:DIP-14_W7.62mm_Socket,Quad And2,,
+U6,1,74HCT32,74LS32,0.53,0.53,Package_DIP:DIP-14_W7.62mm_Socket,Quad 2-input OR,,
+,,,,,11.65,,,,

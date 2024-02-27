@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\MSX_4Slot_Expander\MSX_4Slot_Expander-Buffer.kicad_sch</source>
+    <date>2/24/2024 6:34:30 PM</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>MSX 4 Slot Expander</title>
+        <company>Luis Vina</company>
+        <rev>3</rev>
+        <date>2024-02-23</date>
+        <source>MSX_4Slot_Expander-Buffer.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>104</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42507550-1c2e-463d-838f-1654fc83b74d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>104</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>333fbeec-be63-439e-b858-e8509e25c134</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>104</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e307c91e-93d6-4dac-a23c-99534c7f06db</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>104</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d2cb9ae-cf61-4720-a6af-0c6e1f472b07</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>104</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0901960e-37b8-421e-9f3c-d1dc82acccf6</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>104</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdf8ad58-ab79-4395-8fd8-73bc663c557b</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>844b4314-513a-46fd-af9a-3f56f30a71d2</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>MSX_SLOT_CON-msxmakers</value>
+      <footprint>MSX:MSX_Slot</footprint>
+      <libsource lib="" part="MSX_SLOT_CON-msxmakers_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8c97d42-8e58-4ebb-ab38-9bc90464cb0d</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e1f90f5-78bd-4177-9bba-9e8b36d483da</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f8e1a08-7e20-4727-9e9e-30bb7537b8aa</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d172843-cfab-4983-9ec6-59480904b29c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x25_Odd_Even</value>
+      <footprint>Connector_IDC:IDC-Header_2x25_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x25_Odd_Even" description="Generic connector, double row, 02x25, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x25, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad28dd88-589d-4118-8364-6848ed3f12cb</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>74HC245</value>
+      <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74HC245</datasheet>
+      <libsource lib="74xx" part="74HC245" description="Octal BUS Transceivers, 3-State outputs"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Octal BUS Transceivers, 3-State outputs"/>
+      <property name="ki_keywords" value="HCMOS BUS 3State"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48d54654-d57d-4266-a5fb-11d06e659d06</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>74HCT541</value>
+      <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74HCT541</datasheet>
+      <libsource lib="74xx" part="74HCT541" description="8-bit Buffer/Line Driver 3-state outputs"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="8-bit Buffer/Line Driver 3-state outputs"/>
+      <property name="ki_keywords" value="TTL BUFFER 3State BUS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fad0df5e-6775-4c17-99c4-09025f2e197c</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>74HCT541</value>
+      <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74HCT541</datasheet>
+      <libsource lib="74xx" part="74HCT541" description="8-bit Buffer/Line Driver 3-state outputs"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="8-bit Buffer/Line Driver 3-state outputs"/>
+      <property name="ki_keywords" value="TTL BUFFER 3State BUS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db8b0de0-1364-4fa7-8ba8-6748a903fcc4</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>74HCT541</value>
+      <footprint>Package_DIP:DIP-20_W7.62mm_Socket</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74HCT541</datasheet>
+      <libsource lib="74xx" part="74HCT541" description="8-bit Buffer/Line Driver 3-state outputs"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="8-bit Buffer/Line Driver 3-state outputs"/>
+      <property name="ki_keywords" value="TTL BUFFER 3State BUS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04f007ec-3df7-45bf-8a74-3b0a8842702c</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>74LS08</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm_Socket</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS08</datasheet>
+      <libsource lib="74xx" part="74LS08" description="Quad And2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Quad And2"/>
+      <property name="ki_keywords" value="TTL and2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75a38dd5-943c-4bcc-9298-133a585b22fb 77bce799-9b35-484e-87e0-9c1a6e0da00e 68696df7-79a4-4055-b46c-10f2bdc6a0fc 646d8c5c-45cd-4c5c-9d03-62032b9b8b1c 23e53323-a6b8-4809-936c-bd945b1edc61</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>74HCT32</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm_Socket</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MSX_4Slot_Expander-Buffer.kicad_sch"/>
+      <property name="ki_description" value="Quad 2-input OR"/>
+      <property name="ki_keywords" value="TTL Or2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c80c3227-f939-48c8-ba87-b405fb793ab5 98b53be5-639d-4f85-a7b6-392024ba3255 70062dc2-5b9c-4275-8fda-0d59767d9755 11bea383-af0c-41d6-ac47-8d7af7640285 01f2777b-7970-4365-8c37-ed0467e499c7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="MSX_SLOT_CON-msxmakers_1">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">MSX_SLOT_CON-msxmakers</field>
+      </fields>
+      <pins>
+        <pin num="01" name="~{CS1}" type="output"/>
+        <pin num="02" name="~{CS2}" type="output"/>
+        <pin num="03" name="~{CS12}" type="output"/>
+        <pin num="04" name="~{SLTSL}" type="output"/>
+        <pin num="05" name="NC1" type="no_connect"/>
+        <pin num="06" name="~{RFSH}" type="output"/>
+        <pin num="07" name="~{WAIT}" type="input"/>
+        <pin num="08" name="~{INT}" type="input"/>
+        <pin num="09" name="~{M1}" type="output"/>
+        <pin num="10" name="~{BUSDIR}" type="input"/>
+        <pin num="11" name="~{IORQ}" type="output"/>
+        <pin num="12" name="~{MERQ}" type="output"/>
+        <pin num="13" name="~{WR}" type="output"/>
+        <pin num="14" name="~{RD}" type="output"/>
+        <pin num="15" name="~{RESET}" type="output"/>
+        <pin num="16" name="NC2" type="no_connect"/>
+        <pin num="17" name="A9" type="output"/>
+        <pin num="18" name="A15" type="output"/>
+        <pin num="19" name="A11" type="output"/>
+        <pin num="20" name="A10" type="output"/>
+        <pin num="21" name="A7" type="output"/>
+        <pin num="22" name="A6" type="output"/>
+        <pin num="23" name="A12" type="output"/>
+        <pin num="24" name="A8" type="output"/>
+        <pin num="25" name="A14" type="output"/>
+        <pin num="26" name="A13" type="output"/>
+        <pin num="27" name="A1" type="output"/>
+        <pin num="28" name="A0" type="output"/>
+        <pin num="29" name="A3" type="output"/>
+        <pin num="30" name="A2" type="output"/>
+        <pin num="31" name="A5" type="output"/>
+        <pin num="32" name="A4" type="output"/>
+        <pin num="33" name="D1" type="bidirectional"/>
+        <pin num="34" name="D0" type="bidirectional"/>
+        <pin num="35" name="D3" type="bidirectional"/>
+        <pin num="36" name="D2" type="bidirectional"/>
+        <pin num="37" name="D5" type="bidirectional"/>
+        <pin num="38" name="D4" type="bidirectional"/>
+        <pin num="39" name="D7" type="bidirectional"/>
+        <pin num="40" name="D6" type="bidirectional"/>
+        <pin num="41" name="GND1" type="power_in"/>
+        <pin num="42" name="CLOCK" type="output"/>
+        <pin num="43" name="GND2" type="power_in"/>
+        <pin num="44" name="SW1" type="passive"/>
+        <pin num="45" name="+5V1" type="power_in"/>
+        <pin num="46" name="SW2" type="passive"/>
+        <pin num="47" name="+5V2" type="power_in"/>
+        <pin num="48" name="+12V" type="power_in"/>
+        <pin num="49" name="SNDIN" type="input"/>
+        <pin num="50" name="-12V" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74HC245">
+      <description>Octal BUS Transceivers, 3-State outputs</description>
+      <docs>http://www.ti.com/lit/gpn/sn74HC245</docs>
+      <footprints>
+        <fp>DIP?20*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC245</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74HC245</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A-&gt;B" type="input"/>
+        <pin num="2" name="A0" type="tri_state"/>
+        <pin num="3" name="A1" type="tri_state"/>
+        <pin num="4" name="A2" type="tri_state"/>
+        <pin num="5" name="A3" type="tri_state"/>
+        <pin num="6" name="A4" type="tri_state"/>
+        <pin num="7" name="A5" type="tri_state"/>
+        <pin num="8" name="A6" type="tri_state"/>
+        <pin num="9" name="A7" type="tri_state"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="B7" type="tri_state"/>
+        <pin num="12" name="B6" type="tri_state"/>
+        <pin num="13" name="B5" type="tri_state"/>
+        <pin num="14" name="B4" type="tri_state"/>
+        <pin num="15" name="B3" type="tri_state"/>
+        <pin num="16" name="B2" type="tri_state"/>
+        <pin num="17" name="B1" type="tri_state"/>
+        <pin num="18" name="B0" type="tri_state"/>
+        <pin num="19" name="CE" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74HCT541">
+      <description>8-bit Buffer/Line Driver 3-state outputs</description>
+      <docs>http://www.ti.com/lit/gpn/sn74HCT541</docs>
+      <footprints>
+        <fp>DIP?20*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HCT541</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74HCT541</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G1" type="input"/>
+        <pin num="2" name="A0" type="input"/>
+        <pin num="3" name="A1" type="input"/>
+        <pin num="4" name="A2" type="input"/>
+        <pin num="5" name="A3" type="input"/>
+        <pin num="6" name="A4" type="input"/>
+        <pin num="7" name="A5" type="input"/>
+        <pin num="8" name="A6" type="input"/>
+        <pin num="9" name="A7" type="input"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="Y7" type="tri_state"/>
+        <pin num="12" name="Y6" type="tri_state"/>
+        <pin num="13" name="Y5" type="tri_state"/>
+        <pin num="14" name="Y4" type="tri_state"/>
+        <pin num="15" name="Y3" type="tri_state"/>
+        <pin num="16" name="Y2" type="tri_state"/>
+        <pin num="17" name="Y1" type="tri_state"/>
+        <pin num="18" name="Y0" type="tri_state"/>
+        <pin num="19" name="G2" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS08">
+      <description>Quad And2</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS08</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS08</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS32">
+      <description>Quad 2-input OR</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS32</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS32</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x25_Odd_Even">
+      <description>Generic connector, double row, 02x25, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x25_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+        <pin num="39" name="Pin_39" type="passive"/>
+        <pin num="40" name="Pin_40" type="passive"/>
+        <pin num="41" name="Pin_41" type="passive"/>
+        <pin num="42" name="Pin_42" type="passive"/>
+        <pin num="43" name="Pin_43" type="passive"/>
+        <pin num="44" name="Pin_44" type="passive"/>
+        <pin num="45" name="Pin_45" type="passive"/>
+        <pin num="46" name="Pin_46" type="passive"/>
+        <pin num="47" name="Pin_47" type="passive"/>
+        <pin num="48" name="Pin_48" type="passive"/>
+        <pin num="49" name="Pin_49" type="passive"/>
+        <pin num="50" name="Pin_50" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N914">
+      <description>100V 0.3A Small Signal Fast Switching Diode, DO-35</description>
+      <docs>http://www.vishay.com/docs/85622/1n914.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N914</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/85622/1n914.pdf</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/74xx.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="45" pinfunction="+5V1" pintype="power_in"/>
+      <node ref="CN1" pin="47" pinfunction="+5V2" pintype="power_in"/>
+      <node ref="J1" pin="45" pinfunction="Pin_45" pintype="passive"/>
+      <node ref="J1" pin="47" pinfunction="Pin_47" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="CN1" pin="48" pinfunction="+12V" pintype="power_in"/>
+      <node ref="J1" pin="48" pinfunction="Pin_48" pintype="passive"/>
+    </net>
+    <net code="3" name="-12V">
+      <node ref="CN1" pin="50" pinfunction="-12V" pintype="power_in"/>
+      <node ref="J1" pin="50" pinfunction="Pin_50" pintype="passive"/>
+    </net>
+    <net code="4" name="A0">
+      <node ref="CN1" pin="28" pinfunction="A0" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="5" name="A1">
+      <node ref="CN1" pin="27" pinfunction="A1" pintype="output"/>
+      <node ref="U3" pin="3" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="6" name="A2">
+      <node ref="CN1" pin="30" pinfunction="A2" pintype="output"/>
+      <node ref="U3" pin="4" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="7" name="A3">
+      <node ref="CN1" pin="29" pinfunction="A3" pintype="output"/>
+      <node ref="U3" pin="5" pinfunction="A3" pintype="input"/>
+    </net>
+    <net code="8" name="A4">
+      <node ref="CN1" pin="32" pinfunction="A4" pintype="output"/>
+      <node ref="U3" pin="6" pinfunction="A4" pintype="input"/>
+    </net>
+    <net code="9" name="A5">
+      <node ref="CN1" pin="31" pinfunction="A5" pintype="output"/>
+      <node ref="U3" pin="7" pinfunction="A5" pintype="input"/>
+    </net>
+    <net code="10" name="A6">
+      <node ref="CN1" pin="22" pinfunction="A6" pintype="output"/>
+      <node ref="U3" pin="8" pinfunction="A6" pintype="input"/>
+    </net>
+    <net code="11" name="A7">
+      <node ref="CN1" pin="21" pinfunction="A7" pintype="output"/>
+      <node ref="U3" pin="9" pinfunction="A7" pintype="input"/>
+    </net>
+    <net code="12" name="A8">
+      <node ref="CN1" pin="24" pinfunction="A8" pintype="output"/>
+      <node ref="U4" pin="2" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="13" name="A9">
+      <node ref="CN1" pin="17" pinfunction="A9" pintype="output"/>
+      <node ref="U4" pin="3" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="14" name="A10">
+      <node ref="CN1" pin="20" pinfunction="A10" pintype="output"/>
+      <node ref="U4" pin="4" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="15" name="A11">
+      <node ref="CN1" pin="19" pinfunction="A11" pintype="output"/>
+      <node ref="U4" pin="5" pinfunction="A3" pintype="input"/>
+    </net>
+    <net code="16" name="A12">
+      <node ref="CN1" pin="23" pinfunction="A12" pintype="output"/>
+      <node ref="U4" pin="6" pinfunction="A4" pintype="input"/>
+    </net>
+    <net code="17" name="A13">
+      <node ref="CN1" pin="26" pinfunction="A13" pintype="output"/>
+      <node ref="U4" pin="7" pinfunction="A5" pintype="input"/>
+    </net>
+    <net code="18" name="A14">
+      <node ref="CN1" pin="25" pinfunction="A14" pintype="output"/>
+      <node ref="U4" pin="8" pinfunction="A6" pintype="input"/>
+    </net>
+    <net code="19" name="A15">
+      <node ref="CN1" pin="18" pinfunction="A15" pintype="output"/>
+      <node ref="U4" pin="9" pinfunction="A7" pintype="input"/>
+    </net>
+    <net code="20" name="BUSDIR">
+      <node ref="CN1" pin="10" pinfunction="~{BUSDIR}" pintype="input"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="21" name="BXA0">
+      <node ref="J1" pin="28" pinfunction="Pin_28" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="Y0" pintype="tri_state"/>
+    </net>
+    <net code="22" name="BXA1">
+      <node ref="J1" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="Y1" pintype="tri_state"/>
+    </net>
+    <net code="23" name="BXA2">
+      <node ref="J1" pin="30" pinfunction="Pin_30" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="Y2" pintype="tri_state"/>
+    </net>
+    <net code="24" name="BXA3">
+      <node ref="J1" pin="29" pinfunction="Pin_29" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="Y3" pintype="tri_state"/>
+    </net>
+    <net code="25" name="BXA4">
+      <node ref="J1" pin="32" pinfunction="Pin_32" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="Y4" pintype="tri_state"/>
+    </net>
+    <net code="26" name="BXA5">
+      <node ref="J1" pin="31" pinfunction="Pin_31" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="Y5" pintype="tri_state"/>
+    </net>
+    <net code="27" name="BXA6">
+      <node ref="J1" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="Y6" pintype="tri_state"/>
+    </net>
+    <net code="28" name="BXA7">
+      <node ref="J1" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="Y7" pintype="tri_state"/>
+    </net>
+    <net code="29" name="BXA8">
+      <node ref="J1" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="U4" pin="18" pinfunction="Y0" pintype="tri_state"/>
+    </net>
+    <net code="30" name="BXA9">
+      <node ref="J1" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="Y1" pintype="tri_state"/>
+    </net>
+    <net code="31" name="BXA10">
+      <node ref="J1" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="Y2" pintype="tri_state"/>
+    </net>
+    <net code="32" name="BXA11">
+      <node ref="J1" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="U4" pin="15" pinfunction="Y3" pintype="tri_state"/>
+    </net>
+    <net code="33" name="BXA12">
+      <node ref="J1" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="Y4" pintype="tri_state"/>
+    </net>
+    <net code="34" name="BXA13">
+      <node ref="J1" pin="26" pinfunction="Pin_26" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="Y5" pintype="tri_state"/>
+    </net>
+    <net code="35" name="BXA14">
+      <node ref="J1" pin="25" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="Y6" pintype="tri_state"/>
+    </net>
+    <net code="36" name="BXA15">
+      <node ref="J1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="Y7" pintype="tri_state"/>
+    </net>
+    <net code="37" name="BXCLK">
+      <node ref="J1" pin="42" pinfunction="Pin_42" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="Y7" pintype="tri_state"/>
+    </net>
+    <net code="38" name="BXCS1">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="8" pintype="output"/>
+    </net>
+    <net code="39" name="BXCS2">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="6" pintype="output"/>
+    </net>
+    <net code="40" name="BXCS12">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U5" pin="3" pintype="output"/>
+    </net>
+    <net code="41" name="BXD0">
+      <node ref="J1" pin="34" pinfunction="Pin_34" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="B0" pintype="tri_state"/>
+    </net>
+    <net code="42" name="BXD1">
+      <node ref="J1" pin="33" pinfunction="Pin_33" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="B1" pintype="tri_state"/>
+    </net>
+    <net code="43" name="BXD2">
+      <node ref="J1" pin="36" pinfunction="Pin_36" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="B2" pintype="tri_state"/>
+    </net>
+    <net code="44" name="BXD3">
+      <node ref="J1" pin="35" pinfunction="Pin_35" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="B3" pintype="tri_state"/>
+    </net>
+    <net code="45" name="BXD4">
+      <node ref="J1" pin="38" pinfunction="Pin_38" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="B4" pintype="tri_state"/>
+    </net>
+    <net code="46" name="BXD5">
+      <node ref="J1" pin="37" pinfunction="Pin_37" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="B5" pintype="tri_state"/>
+    </net>
+    <net code="47" name="BXD6">
+      <node ref="J1" pin="40" pinfunction="Pin_40" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="B6" pintype="tri_state"/>
+    </net>
+    <net code="48" name="BXD7">
+      <node ref="J1" pin="39" pinfunction="Pin_39" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="B7" pintype="tri_state"/>
+    </net>
+    <net code="49" name="BXDIR">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U5" pin="12" pintype="input"/>
+    </net>
+    <net code="50" name="BXINT">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U6" pin="4" pintype="input"/>
+      <node ref="U6" pin="5" pintype="input"/>
+    </net>
+    <net code="51" name="BXIORQ">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="Y3" pintype="tri_state"/>
+    </net>
+    <net code="52" name="BXM1">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="Y1" pintype="tri_state"/>
+    </net>
+    <net code="53" name="BXMERQ">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="54" name="BXMREQ">
+      <node ref="U2" pin="16" pinfunction="Y2" pintype="tri_state"/>
+    </net>
+    <net code="55" name="BXRD">
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="Y4" pintype="tri_state"/>
+    </net>
+    <net code="56" name="BXRESET">
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="Y6" pintype="tri_state"/>
+    </net>
+    <net code="57" name="BXRFSH">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="Y0" pintype="tri_state"/>
+    </net>
+    <net code="58" name="BXSLTSL">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U6" pin="8" pintype="output"/>
+    </net>
+    <net code="59" name="BXWAIT">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U6" pin="1" pintype="input"/>
+      <node ref="U6" pin="2" pintype="input"/>
+    </net>
+    <net code="60" name="BXWR">
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="Y5" pintype="tri_state"/>
+    </net>
+    <net code="61" name="CLK">
+      <node ref="CN1" pin="42" pinfunction="CLOCK" pintype="output"/>
+      <node ref="U2" pin="9" pinfunction="A7" pintype="input"/>
+    </net>
+    <net code="62" name="CS1">
+      <node ref="CN1" pin="01" pinfunction="~{CS1}" pintype="output"/>
+      <node ref="U5" pin="10" pintype="input"/>
+      <node ref="U5" pin="9" pintype="input"/>
+    </net>
+    <net code="63" name="CS2">
+      <node ref="CN1" pin="02" pinfunction="~{CS2}" pintype="output"/>
+      <node ref="U5" pin="4" pintype="input"/>
+      <node ref="U5" pin="5" pintype="input"/>
+    </net>
+    <net code="64" name="CS12">
+      <node ref="CN1" pin="03" pinfunction="~{CS12}" pintype="output"/>
+      <node ref="U5" pin="1" pintype="input"/>
+      <node ref="U5" pin="2" pintype="input"/>
+    </net>
+    <net code="65" name="D0">
+      <node ref="CN1" pin="34" pinfunction="D0" pintype="bidirectional"/>
+      <node ref="U1" pin="2" pinfunction="A0" pintype="tri_state"/>
+    </net>
+    <net code="66" name="D1">
+      <node ref="CN1" pin="33" pinfunction="D1" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="A1" pintype="tri_state"/>
+    </net>
+    <net code="67" name="D2">
+      <node ref="CN1" pin="36" pinfunction="D2" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="A2" pintype="tri_state"/>
+    </net>
+    <net code="68" name="D3">
+      <node ref="CN1" pin="35" pinfunction="D3" pintype="bidirectional"/>
+      <node ref="U1" pin="5" pinfunction="A3" pintype="tri_state"/>
+    </net>
+    <net code="69" name="D4">
+      <node ref="CN1" pin="38" pinfunction="D4" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="A4" pintype="tri_state"/>
+    </net>
+    <net code="70" name="D5">
+      <node ref="CN1" pin="37" pinfunction="D5" pintype="bidirectional"/>
+      <node ref="U1" pin="7" pinfunction="A5" pintype="tri_state"/>
+    </net>
+    <net code="71" name="D6">
+      <node ref="CN1" pin="40" pinfunction="D6" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="A6" pintype="tri_state"/>
+    </net>
+    <net code="72" name="D7">
+      <node ref="CN1" pin="39" pinfunction="D7" pintype="bidirectional"/>
+      <node ref="U1" pin="9" pinfunction="A7" pintype="tri_state"/>
+    </net>
+    <net code="73" name="Earth">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="CN1" pin="41" pinfunction="GND1" pintype="power_in"/>
+      <node ref="CN1" pin="43" pinfunction="GND2" pintype="power_in"/>
+      <node ref="J1" pin="41" pinfunction="Pin_41" pintype="passive"/>
+      <node ref="J1" pin="43" pinfunction="Pin_43" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="19" pinfunction="CE" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="G1" pintype="input"/>
+      <node ref="U2" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="19" pinfunction="G2" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="G1" pintype="input"/>
+      <node ref="U3" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="19" pinfunction="G2" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="G1" pintype="input"/>
+      <node ref="U4" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="19" pinfunction="G2" pintype="input"/>
+      <node ref="U5" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="74" name="INT">
+      <node ref="CN1" pin="08" pinfunction="~{INT}" pintype="input"/>
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="75" name="IORQ">
+      <node ref="CN1" pin="11" pinfunction="~{IORQ}" pintype="output"/>
+      <node ref="U2" pin="5" pinfunction="A3" pintype="input"/>
+    </net>
+    <net code="76" name="M1">
+      <node ref="CN1" pin="09" pinfunction="~{M1}" pintype="output"/>
+      <node ref="U2" pin="3" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="77" name="MERQ">
+      <node ref="CN1" pin="12" pinfunction="~{MERQ}" pintype="output"/>
+    </net>
+    <net code="78" name="MREQ">
+      <node ref="U2" pin="4" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(D9-K)">
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U6" pin="3" pintype="output"/>
+    </net>
+    <net code="80" name="Net-(D10-K)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U6" pin="6" pintype="output"/>
+    </net>
+    <net code="81" name="Net-(U1-A-&gt;B)">
+      <node ref="U1" pin="1" pinfunction="A-&gt;B" pintype="input"/>
+      <node ref="U5" pin="11" pintype="output"/>
+    </net>
+    <net code="82" name="Net-(U5-Pad13)">
+      <node ref="U5" pin="13" pintype="input"/>
+      <node ref="U6" pin="11" pintype="output"/>
+    </net>
+    <net code="83" name="RD">
+      <node ref="CN1" pin="14" pinfunction="~{RD}" pintype="output"/>
+      <node ref="U2" pin="6" pinfunction="A4" pintype="input"/>
+      <node ref="U6" pin="13" pintype="input"/>
+    </net>
+    <net code="84" name="RESET">
+      <node ref="CN1" pin="15" pinfunction="~{RESET}" pintype="output"/>
+      <node ref="U2" pin="8" pinfunction="A6" pintype="input"/>
+    </net>
+    <net code="85" name="RFSH">
+      <node ref="CN1" pin="06" pinfunction="~{RFSH}" pintype="output"/>
+      <node ref="U2" pin="2" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="86" name="SLTSL">
+      <node ref="CN1" pin="04" pinfunction="~{SLTSL}" pintype="output"/>
+      <node ref="U6" pin="10" pintype="input"/>
+      <node ref="U6" pin="12" pintype="input"/>
+      <node ref="U6" pin="9" pintype="input"/>
+    </net>
+    <net code="87" name="SNDIN">
+      <node ref="CN1" pin="49" pinfunction="SNDIN" pintype="input"/>
+      <node ref="J1" pin="49" pinfunction="Pin_49" pintype="passive"/>
+    </net>
+    <net code="88" name="SW1">
+      <node ref="CN1" pin="44" pinfunction="SW1" pintype="passive"/>
+      <node ref="J1" pin="44" pinfunction="Pin_44" pintype="passive"/>
+    </net>
+    <net code="89" name="SW2">
+      <node ref="CN1" pin="46" pinfunction="SW2" pintype="passive"/>
+      <node ref="J1" pin="46" pinfunction="Pin_46" pintype="passive"/>
+    </net>
+    <net code="90" name="WAIT">
+      <node ref="CN1" pin="07" pinfunction="~{WAIT}" pintype="input"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="91" name="WR">
+      <node ref="CN1" pin="13" pinfunction="~{WR}" pintype="output"/>
+      <node ref="U2" pin="7" pinfunction="A5" pintype="input"/>
+    </net>
+    <net code="92" name="unconnected-(CN1-NC1-Pad05)">
+      <node ref="CN1" pin="05" pinfunction="NC1" pintype="no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(CN1-NC2-Pad16)">
+      <node ref="CN1" pin="16" pinfunction="NC2" pintype="no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(J1-Pin_5-Pad5)">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="95" name="unconnected-(J1-Pin_16-Pad16)">
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+    </net>
+  </nets>
+</export>
